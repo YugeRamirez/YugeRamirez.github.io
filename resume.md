@@ -28,4 +28,4 @@ I may be applicable for a GIS or information related work. I am studying Python 
 
 # Other Notice
 
-This is just an example of markdown templete, since my experience is too little to compose a pursuasive and informative 
+This is just an example of practicing markdown template, since my experience is too little to compose a pursuasive and informative resume
