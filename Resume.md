@@ -16,9 +16,9 @@ I may be applicable for a GIS or information related work. I am studying Python 
 
 ## University of Washington (Seattle, WA)
 
-* [University of Washington][] description, particularly if not well-known.*
+[University of Washington][]
 
-** **Honorable Fellow** Studnet (Geography Major Data Science)** (Sep 2020 - Jun 2024)
+**Honorable Fellow** Student (Geography Major Data Science)** (Sep 2020 - Jun 2024)
 
 
 - Going to Successfully Graduate from School **with a shiny dilopma**.
